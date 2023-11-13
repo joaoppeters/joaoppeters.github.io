@@ -16,4 +16,4 @@ I have a single project for which I am able to offer open-source code and/or dat
 
 Steady-State Analysis of Electrical Power Systems - Application of Power Flow Tools via ANAREDE data reading
 
-You can find the project information [here](github.com/joaoppeters/PyANA)
+You can find the project information [here](https://github.com/joaoppeters/PyANA)
