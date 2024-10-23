@@ -69,3 +69,8 @@ See a full list [here](/pubs/), or on my [google scholar](https://scholar.google
 	* Helped run a week long lab on Microcontrollers
 
 -->
+
+
+
+<h2> Courses and Presentations </h2>
+* **2024** ANAREDE introduction minicourse @ SIEEL [Download content](https://joaoppeters.github.io/anarede/)
