@@ -6,6 +6,7 @@ You can contact me at: [jpeters@usp.br](mailto:jpeters@usp.br)
 
 <h2>News</h2>
 
+* **October/2024** [ANAREDE Workshop Presentation @ SIEEL 2024](https://joaoppeters.github.io/files/minicurso_anarede.zip)
 * **October/2023** Paper presented @ SBSE 2023
 * **October/2023** Paper accepted and published by Electrical Engineering journal
 * **August/2023** Started PhD studies in Electrical Engineering @ EESC-USP

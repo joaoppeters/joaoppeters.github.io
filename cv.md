@@ -73,4 +73,4 @@ See a full list [here](/pubs/), or on my [google scholar](https://scholar.google
 
 
 <h2> Courses and Presentations </h2>
-* **2024** ANAREDE introduction minicourse @ SIEEL [Download content](https://joaoppeters.github.io/files/minicurso_anarede.zip)
+* **2024** ANAREDE Workshop @ SIEEL [Download content](https://joaoppeters.github.io/files/minicurso_anarede.zip)
