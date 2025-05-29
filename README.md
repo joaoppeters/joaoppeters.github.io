@@ -5,7 +5,8 @@ I am an Graduate Research Assistant at [LACSEP/EESC-USP](https://lacsep.github.i
 You can contact me at: [jpeters@usp.br](mailto:jpeters@usp.br)
 
 <h2>News</h2>
-
+* **May/2025** Paper accepted and published by Journal of Modern Power Systems and Clean Energy
+* **March/2025** Paper accepted and published by IEEE Access
 * **October/2024** [ANAREDE Workshop Presentation @ SIEEL 2024](https://joaoppeters.github.io/files/minicurso_anarede.zip)
 * **October/2023** Paper presented @ SBSE 2023
 * **October/2023** Paper accepted and published by Electrical Engineering journal
