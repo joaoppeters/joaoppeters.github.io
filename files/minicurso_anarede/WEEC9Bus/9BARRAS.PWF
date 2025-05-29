@@ -1,0 +1,80 @@
+(
+( Gravacao de .PWF - CART
+( Versao do Anarede: 11.07.02
+( Data e Hora da Gravacao: 21/10/2024 - 13:56:16                                                           
+(
+TITU
+SISTEMA WECC 3-MACHINE 9-BUS
+(
+DOPC
+(Op) E (Op) E (Op) E (Op) E (Op) E (Op) E (Op) E (Op) E (Op) E (Op) E
+NEWT L 
+QLIM D CTAP D CREM D
+MOCT D MOCG D MOCF D
+RMON L RBAR L RLIN D RGER D
+99999
+(
+DCTE
+(Mn) ( Val) (Mn) ( Val) (Mn) ( Val) (Mn) ( Val) (Mn) ( Val) (Mn) ( Val)
+BASE    100 
+ACIT  99999 TEPA   1E-6 TEPR   1E-6 QLST   1E-6
+ICIT  99999 DMAX  99999 FDIV      2 ICMN   1E-6
+99999
+(
+DBAR
+(Num)OETGb(   nome   )Gl( V)( A)( Pg)( Qg)( Qn)( Qm)(Bc  )( Pl)( Ql)( Sh)Are(Vf)M(1)(2)(3)(4)(5)(6)(7)(8)(9)(10
+    1 L2 BBarra 1      11040  0.142.510.88-130.130.4                       11000
+    2 L1 CBarra 2      11025-1.8 163.-2.59-101.101.2   7                   21000
+    3 L1 ABarra 3      11025-1.4  85.-13.7-67.4 67.4   9                   31000
+    4 L0 DBarra 4      11072-4.1                                           41000
+    5 L0 DBarra 5      11050-7.7                           125.  50.       41000
+    6 L0 DBarra 6      11065-6.7                            90.  30.       41000
+    7 L0 DBarra 7      11078-4.6                                           41000
+    8 L0 DBarra 8      11069-6.3                           100.  35.       41000
+    9 L0 DBarra 9      11083-3.9                                           41000
+99999
+(
+DLIN
+(De )d O d(Pa )NcEPM( R% )( X% )(Mvar)(Tap)(Tmn)(Tmx)(Phs)(Bc  )(Cn)(Ce)Ns(Cq)(1)(2)(3)(4)(5)(6)(7)(8)(9)(10
+    1         4 1 T     0.  5.76        1.0                      250 250
+    2         7 1 T     0.  6.25        1.0                      200 200 
+    3         9 1 T     0.  5.86        1.0                      300 300 
+    4         5 1 T     1.   8.5  17.6                           300 300 
+    4         6 1 T    1.7   9.2  15.8                           200 200 
+    6         9 1 T    3.9   17.  35.8                           200 200 
+    7         5 1 T    3.2  16.1  30.6                           300 300 
+    7         8 1 T    .85   7.2  14.9                           300 300 
+    8         9 1 T   1.19 10.08  20.9                           300 300
+99999
+(
+DGER
+(No ) O (Pmn ) (Pmx ) ( Fp) (FpR) (FPn) (Fa) (Fr) (Ag) ( Xq) (Sno)
+    1       0.  210.4  44.9
+    2       0.  193.2  28.3
+    3       0.  108.8  26.8
+99999
+(
+DARE
+(Ar    (Xchg)     (      Identificacao da area       ) (Xmin) (Xmax)
+  1        0.     Area 1                                             
+  2        0.     Area 2                                             
+  3        0.     Area 3 
+  4        0.     Area 4
+99999
+(
+DGLT
+(G (Vmn) (Vmx) (Vmne (Vmxe
+ 1    .9 1.1      .9   1.1
+99999
+(
+DGBT
+(G ( kV)
+A  13.8
+B  16.5
+C    18
+D   230
+99999
+(
+EXLF
+(
+FIM

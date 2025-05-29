@@ -1,0 +1,23 @@
+DCTG
+(Nc) O Pr (       IDENTIFICACAO DA CONTINGENCIA        )
+1       1 CTG DE 4 PARA 5 CIRC 1
+(Tp) (El ) (Pa ) Nc (Ext) (DV1) (DV2) (DV3) (DV4) (DV5) (DV6) (DV7)
+CIRC     4     5  1
+FCAS
+(Nc) O Pr (       IDENTIFICACAO DA CONTINGENCIA        )
+2       1 CTG DE 4 PARA 6 CIRC 1
+(Tp) (El ) (Pa ) Nc (Ext) (DV1) (DV2) (DV3) (DV4) (DV5) (DV6) (DV7)
+CIRC     4     6  1
+FCAS
+(Nc) O Pr (       IDENTIFICACAO DA CONTINGENCIA        )
+3       2 CTG DE 6 PARA 9 CIRC 1
+(Tp) (El ) (Pa ) Nc (Ext) (DV1) (DV2) (DV3) (DV4) (DV5) (DV6) (DV7)
+CIRC     6     9  1
+FCAS
+99999
+(
+EXCT
+(P Pr Pr Pr Pr Pr Pr Pr Pr Pr Pr Pr
+ 1
+ (
+FIM
