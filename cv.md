@@ -37,9 +37,10 @@ See a full list [here](/pubs/), or on my [google scholar](https://scholar.google
 
 <!--  -->
 <h2> Teaching </h2>
-* **2025** Teaching assistant in the Fundamentals of Control course
-* **2024** Teaching assistant in the Electricity and Magnetism Laboratory course
-* **2024** Teaching assistant in the Fundamentals of Control Laboratory course
+* **Aug/2025** Teaching assistant for the Dynamics and Control of Electrical and Energy Systems course
+* **Feb/2025** Teaching assistant for the Fundamentals of Control course
+* **Aug/2024** Teaching assistant for the Electricity and Magnetism Laboratory course
+* **Feb/2024** Teaching assistant for the Fundamentals of Control Laboratory course
 
 <!--  -->
 <h2> Courses and Presentations </h2>

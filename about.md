@@ -7,9 +7,10 @@ permalink: /about/
 
 <!--  -->
 # About me
-Since August 2023 I have been a doctoral researcher at EESC-USP. My interests lie in the steady-state and transient analysis of electrical power systems operation, with special emphasis on stability and security analysis, and mathematical modeling of electrical equipments in the power flow problem.
+Since August'23 I have been a PhD student and researcher in Electrical Engineering at EESC-USP, affiliated with the [LACSEP Laboratory](lacsep.github.io). My research focuses on the steady-state and transient analysis of electrical power system operations, with particular emphasis on power system stability and control, nonlinear systems analysis, security assessment, and the mathematical modeling of electrical equipment within the power flow problem.
 
 I received my graduate and masters degrees from the Federal University of Juiz de Fora (UFJF). My MSc proposed sigmoid-smooth modelings for SVCs and synchronous generators reactive power limits in the power flow problem, investigating the impacts of the smooth model regarding LIB and SNB bifurcation points. You can find my thesis [here](https://repositorio.ufjf.br/jspui/handle/ufjf/15471).
 
 <h2>Personal</h2>
 I grew up in Juiz de Fora, MG-Brazil! I enjoy sports and generally being outdoors. 
+<!-- <img src="/images/Collage.png" alt="drawing" width="600"/> -->
