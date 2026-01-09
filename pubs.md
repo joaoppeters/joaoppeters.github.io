@@ -11,6 +11,8 @@ Please see a complete list of my publications below, sorted by year, with **open
 
 <!--  -->
 **2025**
+* **JPP Barbosa**, LOA Dias, RA Ramos, EN Asada, BR Pereira Jr., JC Gonzaga. [Curtailment Mitigation Via Coordinated Control of Reactive Power Support Among Wind Farms](https://ieeexplore.ieee.org/abstract/document/11241435), *2025 16th IEEE International Conference on Industry Applications (INDUSCON)*.
+* R Kuiava, RA Ramos, APG Pavani, **JPP Barbosa**, MR Nascimento, TCC Fernandes, K Fuchs, LOA Dias. [Benchmark System for Frequency Stability Studies Based on the Northeastern Power Subsystem of Brazil](https://ieeexplore.ieee.org/abstract/document/11241402), *2025 16th IEEE International Conference on Industry Applications (INDUSCON)*.
 * GG dos Santos, MR Nascimento, **JPP Barbosa**, MC Oliveira, APG Pavani, RA Ramos. [Definition of Contingency Criticality Based on Violation Probability of Voltage Security Margin Considering COrrelated Uncertainties in System Loads and Wind Power Generation](https://ieeexplore.ieee.org/abstract/document/11014557), *Journal of Modern Power Systems and Clean Energy (JMPCE)*.
 * **JPP Barbosa**, JA Passos Filho, RA Ramos, LFC Alberto. [Voltage Stability Assessment Through Modal Analysis Using a Smooth Formulation of the Power Flow Problem Based on Sigmoid Functions](https://ieeexplore.ieee.org/abstract/document/10945302), *IEEE Access*.
 

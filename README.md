@@ -5,7 +5,9 @@ I am a PhD student in Electrical Engineering at EESC-USP and a Graduate Research
 Feel free to contact me at [jpeters@usp.br](mailto:jpeters@usp.br).
 
 <h2>News</h2>
-* **August/2025** Papers accepted at INDUSCON'25 and PESIM'26
+* **January/2026** Paper presented @ PES-IM'26
+* **October/2025** Papers presented @ INDUSCON'25
+* **August/2025** Papers accepted at INDUSCON'25 and PES-IM'26
 * **August/2025** Teaching assistant for Prof. Rodrigo Ramos in the Dynamics and Control of Electrical and Energy Systems course
 * **May/2025** Paper accepted and published by Journal of Modern Power Systems and Clean Energy
 * **March/2025** Paper accepted and published by IEEE Access
