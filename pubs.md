@@ -3,7 +3,7 @@ layout: default
 title: Publications
 permalink: /pubs/
 ---
-<a href="https://joaoppeters.github.io/about/"><img src="/images/about_button.png" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/cv/"><img src="/images/cv_button.png" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/pubs/"><img src="/images/pub_button.png" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/code/"><img src="/images/code_button.png" alt="drawing" height="40"/></a>
+<a href="https://joaoppeters.github.io/about/"><img src="/images/4.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/cv/"><img src="/images/2.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/pubs/"><img src="/images/1.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/code/"><img src="/images/3.jpg" alt="drawing" height="40"/></a>
 
 <!--  -->
 # Publications

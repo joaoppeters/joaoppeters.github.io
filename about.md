@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-<a href="https://joaoppeters.github.io/about/"><img src="/images/about_button.png" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/cv/"><img src="/images/cv_button.png" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/pubs/"><img src="/images/pub_button.png" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/code/"><img src="/images/code_button.png" alt="drawing" height="40"/></a>
+<a href="https://joaoppeters.github.io/about/"><img src="/images/4.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/cv/"><img src="/images/2.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/pubs/"><img src="/images/1.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/code/"><img src="/images/3.jpg" alt="drawing" height="40"/></a>
 
 <!--  -->
 # About me
@@ -13,4 +13,4 @@ I received my graduate and masters degrees from the Federal University of Juiz d
 
 <h2>Personal</h2>
 I grew up in Juiz de Fora, MG-Brazil! I enjoy sports and generally being outdoors. 
-<!-- <img src="/images/Collage.png" alt="drawing" width="600"/> -->
+<img src="/images/outside-jp.jpg" alt="drawing" width="600"/>
