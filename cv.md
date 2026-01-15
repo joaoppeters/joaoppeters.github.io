@@ -3,11 +3,13 @@ layout: default
 title: Curriculum Vitae
 permalink: /cv/
 ---
-<a href="https://joaoppeters.github.io/about/"><img src="/images/4.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/cv/"><img src="/images/2.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/pubs/"><img src="/images/1.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/code/"><img src="/images/3.jpg" alt="drawing" height="40"/></a>
 
-<!--  -->
 # Curriculum Vitae
 Please see a summary of my experience and accomplishments below, you can also view my full cv as a pdf [here](/files/cv-joaoppeters.pdf).
+
+<!--  -->
+<h2> Experience </h2>
+* **Motivated and eager to further develop my professional skills and gain more hands-on experience.**
 
 <!--  -->
 <h2> Education </h2>
@@ -23,15 +25,6 @@ Please see a summary of my experience and accomplishments below, you can also vi
 	* Advisor: João Alberto Passos Filho
 
 <!--  -->
-<h2> Experience </h2>
-* **Motivated and eager to further develop my professional skills and gain more hands-on experience.**
-
-<!--  -->
-<h2> Awards </h2>
-* **2022** Honours for Best MSc Paper at SBSE 2022
-* **2017** Honours for Best Undergraduate Paper at COPEB 2017
-
-<!--  -->
 <h2> Publications </h2>
 See a full list [here](/pubs/), or on my [google scholar](https://scholar.google.com.br/citations?hl=en&user=pO0JSvYAAAAJ&view_op=list_works&sortby=pubdate). 
 
@@ -45,3 +38,8 @@ See a full list [here](/pubs/), or on my [google scholar](https://scholar.google
 <!--  -->
 <h2> Courses and Presentations </h2>
 * **2024** ANAREDE Workshop @ SIEEL [Download content](https://joaoppeters.github.io/files/minicurso_anarede.zip)
+
+<!--  -->
+<h2> Awards </h2>
+* **2022** Honours for Best MSc Paper at SBSE 2022
+* **2017** Honours for Best Undergraduate Paper at COPEB 2017 

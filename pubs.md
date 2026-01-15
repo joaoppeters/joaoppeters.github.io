@@ -3,9 +3,7 @@ layout: default
 title: Publications
 permalink: /pubs/
 ---
-<a href="https://joaoppeters.github.io/about/"><img src="/images/4.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/cv/"><img src="/images/2.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/pubs/"><img src="/images/1.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/code/"><img src="/images/3.jpg" alt="drawing" height="40"/></a>
 
-<!--  -->
 # Publications
 Please see a complete list of my publications below, sorted by year, with **open access** versions provided in the links.  Also feel free to check out my [google scholar](https://scholar.google.com.br/citations?hl=en&user=pO0JSvYAAAAJ&view_op=list_works&sortby=pubdate). 
 

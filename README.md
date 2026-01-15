@@ -1,28 +1,13 @@
-<a href="https://joaoppeters.github.io/about/"><img src="/images/4.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/cv/"><img src="/images/2.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/pubs/"><img src="/images/1.jpg" alt="drawing" height="40"/></a><a href="https://joaoppeters.github.io/code/"><img src="/images/3.jpg" alt="drawing" height="40"/></a>
+Shoutout to Constance Crozier, whose .io template I used as the basis for my personal page.
 
-I am a PhD student in Electrical Engineering at EESC-USP and a Graduate Research and Teaching Assistant at the [LACSEP Laboratory](https://lacsep.github.io). My work focuses on the steady-state and transient analysis of electrical power system operations. My research interests include: power system stability and control; nonlinear systems analysis and control; power system planning and operation.
+# celeste
 
-Feel free to contact me at [jpeters@usp.br](mailto:jpeters@usp.br).
+Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://github.com/mdo).
 
-<h2>News</h2>
-* **January/2026** Paper presented @ PES-IM'26
-* **October/2025** Papers presented @ INDUSCON'25
-* **August/2025** Papers accepted at INDUSCON'25 and PES-IM'26
-* **August/2025** Teaching assistant for Prof. Rodrigo Ramos in the Dynamics and Control of Electrical and Energy Systems course
-* **May/2025** Paper accepted and published by Journal of Modern Power Systems and Clean Energy
-* **March/2025** Paper accepted and published by IEEE Access
-* **February/2025** Teaching Assistant to Prof. Rodrigo Ramos in the Fundamentals of Control course
-* **October/2024** [ANAREDE Workshop Presentation @ SIEEL 2024](https://joaoppeters.github.io/files/minicurso_anarede.zip)
-* **August/2024** Teaching Assistant to Prof. Rodrigo Ramos in the Electricity and Magnetism Laboratory course
-* **February/2024** Teaching assistant for Prof. Rodrigo Ramos in the Fundamentals of Control Laboratory course
-* **October/2023** Paper presented @ SBSE 2023
-* **October/2023** Paper accepted and published by Electrical Engineering journal
-* **August/2023** Started PhD studies in Electrical Engineering @ EESC-USP
-* **May/2023** MSc thesis presented and approved
-* **July/2023** Paper presented @ SBSE 2022 - Best Paper Award (MSc category)
-* **May/2021** Started MSc studies in Electrical Engineering @ UFJF
-* **April/2021** Graduated in Electrical Engineering (Power Systems) from UFJF
-* **March/2020** Paper accepted and published by Principia (UFJF journal)
-* **August/2019** Exchange semester @ Temple University, Philadelphia - PA
-* **November/2017** Paper presented @ COBEP 2017 - Best Paper Award (Undergraduate category)
-* **August/2015** Started BSc in Electrical Engineering (Power Systems) @ UFJF
+![Celeste Preview](https://user-images.githubusercontent.com/4868132/48317284-981f4080-e62a-11e8-94e4-f3d7db9506a7.png)
+
+You can check out Celeste in action in [the demo site](https://nicoelayda.github.io/celeste).
+
+## License
+
+MIT. See [LICENSE](https://github.com/nicoelayda/celeste/blob/master/LICENSE).

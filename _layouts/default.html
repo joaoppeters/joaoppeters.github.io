@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    <nav class="nav-main">
+      <ul>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/"><b>João Pedro Peters Barbosa</b></a></li>
+        <li>|                         |</li>
+        <!-- <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/group/">group</a></li> -->
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/pubs/">publications</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/cv/">cv</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/code/">code + data</a></li>
+        <li class="hvr-underline-reveal"><a href="{{ site.baseurl }}/about/">about</a></li>
+      </ul>
+    </nav>
+
+    <div class="container content">
+      <main>
+        {{ content }}
+      </main>
+
+      <footer class="footer">
+        <div class="ftr-links">
+          <a href="https://github.com/joaoppeters"><i class="fa fa-github-alt"></i></a>
+          <!-- <a href="https://twitter.com/clcrozier"><i class="fa fa-twitter"></i></a> -->
+        </div>
+      </footer>
+    </div>
+
+  </body>
+</html>
