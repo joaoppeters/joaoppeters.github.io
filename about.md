@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Joâo
+title: About João
 ---
 
 I grew up in Brazil, in the state of Minas Gerais. 
