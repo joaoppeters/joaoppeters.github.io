@@ -3,50 +3,38 @@ layout: default
 title: Blog
 ---
 
-<div class="posts">
+<div class="post-grid">
   {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+    <a class="post-card" href="{{ site.baseurl }}{{ post.url }}">
+      {% if post.image %}
+        <div class="post-card-image">
+          <img src="{{ post.image }}" alt="{{ post.title }}">
+        </div>
+      {% endif %}
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-    {% if post.truncated_preview == true or site.blog.truncated_preview and post.truncated_preview != false %}
-      {{ post.excerpt }}
-      <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-    {% else %}
-      {{ post.content }}
-    {% endif %}
-  </article>
+      <div class="post-card-content">
+        <h2 class="post-card-title">{{ post.title }}</h2>
+        <p class="post-card-summary">{{ post.summary }}</p>
+        <time datetime="{{ post.date | date_to_xmlschema }}" class="post-card-date">
+          {{ post.date | date: "%B %d, %Y" }}
+        </time>
+      </div>
+    </a>
   {% endfor %}
 </div>
 
-
-<!-- <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item" href="{{ paginator.next_page_path | prepend: site.baseurl }}">
-      <i class="fa fa-arrow-circle-o-left"></i> 
-      <span class="pagination-text">older posts</span>
-    </a>
-  {% else %}
-    <span class="pagination-item">
-      <i class="fa fa-arrow-circle-o-left"></i> 
-      <span class="pagination-text">older posts</span>
-    </span>
-  {% endif %}
-
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
   {% if paginator.previous_page %}
     <a class="pagination-item" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">
-      <span class="pagination-text">newer posts</span> 
-      <i class="fa fa-arrow-circle-o-right"></i>
+      Newer posts
     </a>
-  {% else %}
-    <span class="pagination-item">
-      <span class="pagination-text">newer posts</span> 
-      <i class="fa fa-arrow-circle-o-right"></i>
-    </span>
   {% endif %}
-</div> -->
+
+  {% if paginator.next_page %}
+    <a class="pagination-item" href="{{ paginator.next_page_path | prepend: site.baseurl }}">
+      Older posts
+    </a>
+  {% endif %}
+</div>
+{% endif %}
