@@ -4,3 +4,7 @@ gem 'github-pages', group: :jekyll_plugins
 gem 'wdm', '~> 0.1.0' if Gem.win_platform?
 
 gem "webrick", "~> 1.7"
+
+gem "nokogiri", ">= 1.18.9"
+
+gem "rexml", ">= 3.3.9"
