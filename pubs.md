@@ -8,6 +8,10 @@ permalink: /pubs/
 Please see a complete list of my publications below, sorted by year, with **open access** versions provided in the links.  Also feel free to check out my [google scholar](https://scholar.google.com.br/citations?hl=en&user=pO0JSvYAAAAJ&view_op=list_works&sortby=pubdate). 
 
 <!--  -->
+**2026**
+* **JPP Barbosa**, LOA Dias, RA Ramos, EN Asada, BR Pereira Jr., JC Gonzaga. [Curtailment Mitigation in Wind Power Integration via Coordinated Reactive Power Control with FACTS and Wind Farms](), *2026 1st IEEE Power & Energy Society International Meeting (IEEE PES IM)* ([poster here](/files/pubs/pesim2026-poster.pdf)).
+
+<!--  -->
 **2025**
 * **JPP Barbosa**, LOA Dias, RA Ramos, EN Asada, BR Pereira Jr., JC Gonzaga. [Curtailment Mitigation Via Coordinated Control of Reactive Power Support Among Wind Farms](https://ieeexplore.ieee.org/abstract/document/11241435), *2025 16th IEEE International Conference on Industry Applications (INDUSCON)*.
 * R Kuiava, RA Ramos, APG Pavani, **JPP Barbosa**, MR Nascimento, TCC Fernandes, K Fuchs, LOA Dias. [Benchmark System for Frequency Stability Studies Based on the Northeastern Power Subsystem of Brazil](https://ieeexplore.ieee.org/abstract/document/11241402), *2025 16th IEEE International Conference on Industry Applications (INDUSCON)*.
