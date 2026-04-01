@@ -9,7 +9,7 @@ Please see a summary of my experience and accomplishments below, you can also vi
 
 <!--  -->
 <h2> Experience </h2>
-* **Motivated and eager to further develop my professional skills and gain more hands-on experience.**
+* **2026-today** Power System Consultant Engineer
 
 <!--  -->
 <h2> Education </h2>
