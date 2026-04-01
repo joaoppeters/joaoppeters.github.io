@@ -13,6 +13,8 @@ Please see a complete list of my publications below, sorted by year, with **open
 
 <!--  -->
 **2025**
+* MC Oliveira, GG Santos, **JPP Barbosa**, MR Nascimento, RA Ramos, LFC Alberto, APG Pavani.[Análise Probabilística da Margem de Segurança na Integração de Hidrogênio Verde em Sistemas com Geração Intermitente](), *2025 XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE)*.
+* T Fernandes, G Mayese, LOA Dias, **JPP Barbosa**, MR Nascimento, APG Pavani, R Kuiava, EN Asada, C Junqueira, JC Gonzaga, RA Ramos.[Estimação de parâmetros de modelos dinâmicos genéricos para representação de parques eólicos do subsistema Nordeste](), *2025 XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE)*.
 * **JPP Barbosa**, LOA Dias, RA Ramos, EN Asada, BR Pereira Jr., JC Gonzaga. [Curtailment Mitigation Via Coordinated Control of Reactive Power Support Among Wind Farms](https://ieeexplore.ieee.org/abstract/document/11241435), *2025 16th IEEE International Conference on Industry Applications (INDUSCON)*.
 * R Kuiava, RA Ramos, APG Pavani, **JPP Barbosa**, MR Nascimento, TCC Fernandes, K Fuchs, LOA Dias. [Benchmark System for Frequency Stability Studies Based on the Northeastern Power Subsystem of Brazil](https://ieeexplore.ieee.org/abstract/document/11241402), *2025 16th IEEE International Conference on Industry Applications (INDUSCON)*.
 * GG dos Santos, MR Nascimento, **JPP Barbosa**, MC Oliveira, APG Pavani, RA Ramos. [Definition of Contingency Criticality Based on Violation Probability of Voltage Security Margin Considering COrrelated Uncertainties in System Loads and Wind Power Generation](https://ieeexplore.ieee.org/abstract/document/11014557), *Journal of Modern Power Systems and Clean Energy (JMPCE)*.

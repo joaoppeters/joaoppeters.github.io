@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"  # <--- This is empty or invalid
+    directory: "/"
+    schedule:
+      interval: "daily"
