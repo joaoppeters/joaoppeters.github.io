@@ -11,12 +11,9 @@ I received my graduate and masters degrees from the Federal University of Juiz d
 
 I am a Christian, and my faith plays an important role in guiding my personal values and worldview. I enjoy sports and generally being outdoors. I also am starting a [blog!](https://joaoppeters.github.io/blog/)
 
-> “There are three things that are too wonderful for me,  
-> four that I do not understand:  
-> the way of an eagle in the sky,  
-> the way of a serpent on a rock,  
-> the way of a ship on the high seas,  
-> and the way of a man with a maiden.”  
-> — Proverbs 30:18–19
+> “Rejoice always,
+> pray continually,
+> give thanks in all circumstances; for this is God's will for you in Christ Jesus.”  
+> — 1 Thessalonians 5:16–18
 
 <img src="/images/outside-jp.jpg" alt="drawing" width="600"/>
