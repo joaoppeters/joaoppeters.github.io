@@ -9,7 +9,7 @@ Please see a summary of my experience and accomplishments below, you can also vi
 
 <!--  -->
 <h2> Experience </h2>
-* **2026-today** Power System Consultant Engineer
+* **2026-today** Jr. Power System Consultant Engineer, Siemens PTI AM
 
 <!--  -->
 <h2> Education </h2>
