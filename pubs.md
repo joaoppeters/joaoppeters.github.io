@@ -9,6 +9,7 @@ Please see a complete list of my publications below, sorted by year, with **open
 
 <!--  -->
 **2026**
+* R Kuiava, RA Ramos, **JPP Barbosa**, FB de Grabalos, LOA Dias, APG Pavani, TCC Fernandes. [Developpment of a Low-Inertia Benchmark System Based on the Brazilian Northeast Subsystem With a Comparative Assessment of Frequency Support Strategies](), *Journal of Electric Power Systems Research (EPSR)*.
 * LOA Dias, RAS Fernandes, **JPP Barbosa**, TCC Fernandes, EN Asada, RA Ramos. [Abordagem Estocástica para Avaliação da Margem de Estabilidade de Tensão em Sistemas com Elevada Penetração de Fontes Renováveis](), *2026 XXVI Congresso Brasileiro de Automática (CBA)*.
 * **JPP Barbosa**, LOA Dias, RA Ramos, EN Asada, BR Pereira Jr., JC Gonzaga. [Curtailment Mitigation in Wind Power Integration via Coordinated Reactive Power Control with FACTS and Wind Farms](), *2026 1st IEEE Power & Energy Society International Meeting (IEEE PES IM)* ([poster here](/files/pubs/pesim2026-poster.pdf)).
 
